@@ -1,7 +1,7 @@
 # Gerador de senhas
 
 
-Um projeto para ampliar os conhecimentos em funções do javascript. Um layout simples para gerar senhas aleatorias apenas movendo o slider, por padrão ele inicia com todas as letras minusculas mas pode ser incluido outras opções selecionando os checkboxs.
+Um projeto para ampliar os conhecimentos em funções do javascript. Um layout simples para gerar senhas aleatorias apenas movendo o slider, por padrão ele inicia com todas as letras minusculas mas pode ser incluido outras opções selecionando os checkboxs. A força da senha é indicada através do tamanho e cor da barra embaixo do input senha, o gerador de senhas entende que uma senha maior será mais forte desconsiderando os caracteres diferentes. 
     
     
     
