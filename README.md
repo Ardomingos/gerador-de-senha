@@ -20,7 +20,7 @@ Um projeto para ampliar os conhecimentos em funções do javascript. Um layout s
 
 # Contato
 
-* André Rodrigues Domingos => https://www.linkedin.com/in/andr%C3%A9-rodrigues-4224b6231/ , https://github.com/ardomingos
+* André Rodrigues Domingos => https://www.linkedin.com/in/andr%C3%A9-rodrigues-4224b6231/ , rodrigues.domingos996@gmail.com
           
           
           
